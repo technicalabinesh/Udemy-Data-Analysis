@@ -68,7 +68,7 @@ Enrollment tends to correlate positively with course ratings, indicating quality
 
 Pricing varies widely by category, with specialized technical courses commanding higher prices.
 
-Visualizations reveal seasonal trends and highlight categories with emerging learner interest.
+Visualizations reveal seasonal trends and highlight categories with emerging learner interests.
 
 Conclusion
 This project demonstrates effective use of Python and data science libraries to perform actionable analysis on educational platform datasets. The insights gained can support instructors, platform managers, and marketers in optimizing course offerings and targeting learner needs.
